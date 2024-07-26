@@ -30,3 +30,16 @@ Input the commands below one after the other in your terminal. Press the Enter k
     git branch -M main
     git remote add origin https://github.com/suername/sample-code.git
     git push -u origin main
+
+To move existing folders within your GitHub repository using the web interface, you can manually move the files from one folder to another and then delete the empty folders. Here's a step-by-step guide:
+    Navigate to Your Repository:
+        Go to your GitHub account and navigate to the repository you want to restructure.
+    Move Files to New Folders:
+For each file in the folder you want to move, navigate to that file.
+        Click on the file to open it.
+        Click on the pencil icon (Edit this file) in the top right corner.
+        In the "Name your file" field, change the file path to the new folder location. For example, if you want to move existingfolder/file.md to newfolder/existingfolder/file.md, change the path accordingly.
+        Scroll down and click on "Commit changes". Repeat this for each file in the folder.
+Delete Empty Folders:
+        Once all files have been moved, navigate to the old, now empty folder.
+        Delete the folder by clicking the "Delete directory" button, if available. If this button is not available, the folder will be removed automatically once it is empty.
