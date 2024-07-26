@@ -219,3 +219,24 @@ Local Branch is not properly linked to an upstream branch on the remote reposito
     If you want to push your local branch to the remote and set it as the upstream, use:
     sh
     git push -u origin main
+
+If you've changed the name of your repository on GitHub, you'll need to update the remote URL in your local Git repository to reflect the new name. Here's how you can do it:
+    Steps to Update the Remote URL in Your Local Git Repository
+    Open Your Terminal or Git CMD:
+    Open the terminal, Git CMD, or Git Bash.
+    Navigate to Your Local Repository:
+    Use the cd command to navigate to your local repository directory. For example:
+    sh
+    cd path/to/your/repository
+    Check the Current Remote URL:
+    Run the following command to see the current remote URL:
+    sh
+    git remote -v
+    Update the Remote URL:
+    Use the git remote set-url command to update the remote URL to the new repository name. Replace new-repo-name with the new name of your repository and username with your GitHub username:
+    sh
+    git remote set-url origin https://github.com/username/new-repo-name.git
+    Verify the Updated Remote URL:
+    Run the git remote -v command again to verify that the remote URL has been updated:
+    sh
+    git remote -v
