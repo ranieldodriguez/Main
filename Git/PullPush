@@ -43,3 +43,102 @@ Pulling Changes from GitHub to Local Repository
   sh
   git pull origin main
   Replace main with the branch name if you are working on a different branch.
+
+Steps to Push Code to GitHub Using Visual Studio
+  Open or Create a Project in Visual Studio:
+  Open Visual Studio.
+  Create a new project or open an existing one.
+  Initialize a Git Repository:
+  Go to the View menu and select Team Explorer.
+  In the Team Explorer pane, click on Home (the house icon) and select Projects.
+  Click New under the Local Git Repositories section.
+  Choose the project directory you want to initialize with Git. This will create a local Git repository.
+  Add Your Code to the Repository:
+  In Team Explorer, under Changes, you will see all your untracked files listed.
+  Add these files to the staging area by clicking on the + icon next to each file or the Stage All button.
+  Commit Your Changes:
+  After staging the files, enter a commit message in the Message box under Changes.
+  Click the Commit All button to commit your staged changes to the local repository.
+  Connect to GitHub:
+  In Team Explorer, go to Home and select Settings.
+  Under Settings, select Global Settings and enter your GitHub username and email address.
+  Under Home, click on Sync to open the Sync pane.
+  Click Publish to GitHub.
+  Sign in to your GitHub account if prompted.
+  Enter a name for your repository and optionally a description. Choose the visibility (public or private).
+  Click Publish.
+  Push Your Code to GitHub:
+  After publishing, your repository will be created on GitHub.
+  Visual Studio will push your local commits to the GitHub repository automatically.
+  Detailed Steps with Visual Interface
+  Open Team Explorer:
+  Navigate to View -> Team Explorer.
+  Initialize a Git Repository:
+  In Team Explorer, click Home -> Projects -> New Repository.
+  Select your project directory and click Create.
+  Stage Your Changes:
+  In Team Explorer, click on Changes.
+  Review the files listed under Unstaged Changes.
+  Click the + button next to each file or Stage All.
+  Commit Your Changes:
+  In the Changes section, type your commit message.
+  Click Commit All.
+  Connect to GitHub:
+  In Team Explorer, click Home -> Sync.
+  Click Publish to GitHub.
+  Sign in to GitHub if prompted.
+  Fill in the repository details and click Publish.
+  Push Changes:
+  Once the repository is published, Visual Studio will automatically push the changes.
+  To push subsequent changes, simply commit your changes and click Sync in Team Explorer.
+
+Steps to Push Changes to GitHub Using VS Code
+  Open VS Code and Your Repository:
+  Make Changes to Your Code:
+  Edit or add files in the repository as needed.
+  View Changes:
+  Click on the Source Control icon in the Activity Bar on the left side of the VS Code window (it looks like a branch icon).
+  You will see a list of changed files under the "Changes" section.
+  Stage Changes:
+  To stage all changes, click on the + icon next to "Changes."
+  To stage individual files, click on the + icon next to each file you want to stage.
+  Staged files will move from the "Changes" section to the "Staged Changes" section.
+  Commit Changes:
+  Once your changes are staged, enter a commit message in the message box at the top of the Source Control panel.
+  Click the checkmark icon (✓) above the message box to commit the staged changes.
+  Push Changes to GitHub:
+  After committing, you need to push the changes to GitHub.
+  Click on the three dots (ellipsis) at the top right corner of the Source Control panel to open the menu.
+  Select "Push" from the menu.
+  Alternatively, you can use the Command Palette (Ctrl+Shift+P or Cmd+Shift+P on Mac) and type "Git: Push" and select it.
+
+The results of your changes on GitHub after pushing from VS Code, follow these steps:
+  Open GitHub:
+  Go to GitHub and log in if you aren't already.
+  Navigate to Your Repository:
+  In the upper-right corner of the GitHub page, click on your profile icon.
+  Select "Your repositories" from the dropdown menu.
+  Click on the repository you just pushed your changes to.
+  View the Changes:
+  Once you are in your repository, you will see the main page of the repository, which typically displays the files and folders in the repository.
+  The most recent commit message should be displayed at the top of the file list.
+  Inspect Commits:
+  To see a list of all commits, click on the "Commits" link, which is usually found above the file list and below the repository name and description.
+  This will show you a history of all the commits, including your most recent one.
+  Click on the commit message to see the changes made in that commit.
+  Check Specific Files:
+  You can click on individual files in the repository to view their contents.
+  This will reflect the latest changes you pushed from VS Code.
+
+Steps to Pull Changes from GitHub to Your Local Repository
+  Open Terminal or Git CMD:
+  Open your terminal, Git CMD, or Git Bash.
+  Navigate to Your Local Repository:
+  Use the cd command to navigate to your local repository directory. For example:
+  sh
+  cd path/to/your/repository
+  Fetch and Merge Changes:
+  Use git pull to fetch and merge changes from the remote repository into your local branch. This command combines git fetch and git merge.
+  sh
+  git pull origin main
+  Replace main with the name of the branch you are working on if it's different.
