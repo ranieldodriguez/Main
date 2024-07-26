@@ -63,3 +63,24 @@ To change the default editor for Git to Visual Studio Code, you can update your 
     Verify the Change: You can verify that the change has been made by running: sh
     git config --global --list
     Look for the core.editor entry in the output. It should show core.editor=code --wait.
+When you clone a repository using Git, it copies the repository to a directory on your local machine with the same name as the repository by default. If you encounter the error "fatal: destination path 'School-Notes' already exists and is not an empty directory," it means that there is already a directory named School-Notes in the location where you tried to clone the repository, and this directory is not empty.
+    To find where the repository is copied to, you can use the following methods:
+    Method 1: Search for the Directory
+    Using Command Prompt or Git CMD:
+    Open Command Prompt or Git CMD.
+    Navigate to the directory where you expected the repository to be cloned (e.g., your home directory or any other directory you chose).
+    Use the dir command (on Windows) to list the directories and files:
+    sh
+    dir
+    Using File Explorer:
+    Open File Explorer.
+    Navigate to the directory where you expected the repository to be cloned.
+    Look for the directory name
+    Method 2: Search for the Directory Using the Command Line
+    Open Command Prompt or Git CMD.
+    Search for the Directory:
+    Use the cd command to navigate through your directories and find the School-Notes directory. For example:
+    sh
+    cd C:\Users\YourUsername
+    dir
+    
