@@ -26,7 +26,7 @@ Please note that this repository is a work in progress. Content will be added an
 
 ### My Cybersecurity Experience and Goals
 
-I have a robust background in cybersecurity, with extensive experience in network security, vulnerability management, and threat analysis. My journey has taken me through various roles, from a Security Engineer to more specialized positions focusing on cloud security. My goal is to become a Cloud Security Guru, mastering cloud-based security solutions, and ensuring robust protection in cloud environments. This section will document my experiences, insights, and the knowledge I acquire along the way.
+I have a robust background in cybersecurity, with extensive experience in network security, vulnerability management, and threat analysis. My journey has taken me through various roles, from Help Desk Technician to more specialized positions focusing in Security Engineering. My goal is to become a Cloud Security Guru, mastering cloud-based security solutions, and ensuring robust protection in cloud environments. This section will document my experiences, insights, and the knowledge I acquire along the way.
 
 ## Leadership
 
