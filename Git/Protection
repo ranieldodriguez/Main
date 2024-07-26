@@ -1,0 +1,15 @@
+If you want to ensure that no one can accidentally or maliciously push changes to your main branch, you can set up branch protection rules.
+
+Set Up Branch Protection Rules:
+  Go to the Settings tab of your repository.
+  Select Branches from the left sidebar.
+  Click on Add rule under the Branch protection rules section.
+
+Configure Branch Protection:
+  Specify the branch name pattern (e.g., main or master).
+  Check Require a pull request before merging.
+  Optionally, you can also check:
+  Require pull request reviews before merging
+  Require status checks to pass before merging
+  Restrict who can push to matching branches (Leave this unchecked if only you have write access, otherwise specify who can push)
+  Click Create or Save changes.
