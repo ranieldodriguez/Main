@@ -1,0 +1,32 @@
+You'll do this from your terminal.
+    
+To set your Git username, type this in your terminal:
+    git config --global user.name "username"
+To confirm that you have set your Git username correctly, type this:
+    git config --global user.name
+    You should have "username" as the output.
+
+To set your Git email, type this in your terminal:
+    git config --global user.email "youremail@gmail.com"
+To confirm that you have set your Git email correctly, type this:
+    git config --global user.email
+    You should have "youremail@gmail.com" as the output.
+You will be asked to authenticate your GitHub account, so just sign in with the same email to confirm.
+
+Step 4 – Create and edit your code files locally
+
+--Create a Repository on GitHub--
+Click the + sign at the top right corner to create a new repository. Repositories are like your code folders online.
+You will be promted into create a new repositry page. Name the repository + description
+create repository
+
+--Push you lcoal code to GitHub--
+You can use the code editor built-in terminal to use Git to push your code to GitHub. Click ctrl + shift + ' to open the terminal in VSCode.
+Input the commands below one after the other in your terminal. Press the Enter key to proceed after every input.
+    ‌echo "# sample-code" >> README.md
+    git init
+    git add .
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/suername/sample-code.git
+    git push -u origin main
