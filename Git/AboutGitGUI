@@ -29,3 +29,4 @@ Here’s a typical workflow using the Git GUI:
   Navigating Branches: You can create, switch, and manage branches through the Git GUI. This is helpful for managing different lines of development.
   Pulling Changes: Make sure to regularly pull changes from the remote repository to keep your local copy up to date with others’ work.
   Resolving Conflicts: If there are conflicts when merging or pulling changes, the Git GUI can help you visualize and resolve them.
+  final
