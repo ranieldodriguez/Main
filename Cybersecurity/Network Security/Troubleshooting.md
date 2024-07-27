@@ -41,3 +41,35 @@ Helps in troubleshooting RIP routing issues.
 ### debug ip ospf events:
 Displays OSPF event information.
 Useful for troubleshooting OSPF issues and events.
+
+# Advanced Debugging and Monitoring Commands
+
+### debug ip bgp:
+Displays BGP debugging information.
+
+### debug ip ospf events:
+Displays OSPF event debugging information.
+
+### debug ip eigrp: 
+Displays EIGRP debugging information.
+
+### show ip bgp summary: 
+Displays a summary of BGP neighbors.
+
+### show ip ospf database: 
+Displays the OSPF database.
+
+### show ip eigrp neighbors: 
+Displays EIGRP neighbor information.
+
+### show interfaces [interface] switchport: 
+Displays switchport configuration and status.
+
+### show etherchannel summary: 
+Displays EtherChannel summary information.
+
+### show stackwise-virtual: 
+Displays VSS information.
+
+### show zone security: 
+Displays zone-based firewall information.
