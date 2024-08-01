@@ -25,4 +25,20 @@ A agile project includes a flexible budget, which does well with an agile approa
 
 ### PRINCE2
 
+- Continued business justification is one of the seven PRINCE2 principles. Where other methodologies create a business case to start the project, PRINCE2 projects update the business case throughout the projects life.
+- Learn from experience is one of the seven PRINCE2 principles. These lessons learned (or the continual improvement process) help teams larn from their own experience and other projects.
+- Defined roles and responsibilities are one of the seven PRINCE2 principles that create clarity for team members.
 
+### SDLC
+
+In the software development lifecyle (SDLC), the PM outlines the project, determines the resources, and creates a low-function prototype. After prototyping, the team develops the software.
+
+### Kanban
+
+- Kanban methodology controls work in progress (WIP) levels and manages workflows in software and other business processes. The first part of the Kanban team workflow is to prioritize and order the backlog.
+- In the second part of the Kanban workflow, the Kanban team selects the top-ordered backlog items and moves the items into progress, carefully limiting items that are in progress.
+- In the part fo the Kanban workflow, the Kanban team moves items through the workflow, while keeping work within the work in progress (WIP) limits.
+
+### Product Owners and Project Managers
+
+People often interpret product owners as project managers because they both create work for teams.
