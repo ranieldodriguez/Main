@@ -18,3 +18,11 @@ The ROI represents the profability of a project as a percentage: (Net Profit / C
 ### Weak Matrix Structure
 
 In a weak matrix structure, a manager is responsible for assigning work but does not have official authority over the people doing the work. The PM has little contorl over the budget and stadd in a weak matrix.
+
+### Agile Project
+
+A agile project includes a flexible budget, which does well with an agile approach. The project defines cost inputs and parameters at the start
+
+### PRINCE2
+
+
