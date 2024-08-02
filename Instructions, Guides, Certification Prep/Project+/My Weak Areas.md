@@ -42,3 +42,24 @@ In the software development lifecyle (SDLC), the PM outlines the project, determ
 ### Product Owners and Project Managers
 
 People often interpret product owners as project managers because they both create work for teams.
+
+### High-Level Individuals 
+
+- A project organizational chart removes ambiguity gor the PM and team members. It clarifies the team members and the reporting structure. A sponsor is an appropiate section of an organization chart.
+- A steering committee is a governing body that oversees the project. The steering committee is an appropiate section of an organization chart
+
+### Project Road Maps
+
+Project road maps are high-level documents that share major progress points, such as new feature rollouts
+
+### Included in Project Charter
+
+- Every charter will include sections covering these catergories: general project information, project vision, organization (people), and implementation overview. The project name is part of the general project information.
+- A project charter is a brief, formal document that outlines the project manager (PM) agree on why the project matters and what needs to happen. The project sponsor is a part of the project charter.
+
+### Business Analyst
+
+- Business analyst deeply understand business direction and company priorities and are familiar with the software environment. Therefore, a business analyst's responsibilities include helping to define the project.
+- A business analyst operates as a translator between business and informationt technology (IT). Therefore, business analyst will gather business and technical requirements.
+- Business analyst verify project deliverables against requirements. Therefore, they assist with testing and validation.
+
