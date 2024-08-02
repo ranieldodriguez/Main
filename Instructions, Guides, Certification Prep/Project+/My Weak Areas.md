@@ -88,3 +88,7 @@ The first step is to identify stakeholders. The project manager (PM) should list
 - The category describes the type of escalation in an escalation plan. The category of escalation will prompt the appropriate response or plan.
 - The level indicates the escalation order. The first level is the first person the issue would escalate to, and the escalation levels continue sequentially.
 - Each escalation level will have one owner or role. The escalation owner is who the project manager (PM) will contact in the event of an escalation.
+
+### Project Roadmaps
+
+Project roadmaps are high-level documents that share major progress points. A roadmap is highly visual and resembles the format and level of detail present in a press release.
