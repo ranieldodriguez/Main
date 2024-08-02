@@ -63,3 +63,12 @@ Project road maps are high-level documents that share major progress points, suc
 - A business analyst operates as a translator between business and informationt technology (IT). Therefore, business analyst will gather business and technical requirements.
 - Business analyst verify project deliverables against requirements. Therefore, they assist with testing and validation.
 
+### Message Shared Matches Reality
+
+- Capturing information ensures the message shared matches reality. For example, capturing and sharing meeting notes helps ensure integrity. Communication and project progress can also occur verbally through formal reviews and casual conversations of accurately captured information
+- Centralizing information ensures the messages shared match reality.
+- Communication artifacts summarize project progress, conversations, and decisions. Documents should always reflect a project's actual progress (reality).
+
+### Collaborating for Conflict Resolution
+
+Collaborating is when all parties work together to find a win-win solution. Given the need to align with the sponsor's interests while also valuing the input of both programmers, collaborating would be the most effective approach in this scenario. This method would invlove brainstorming and coming up with solution that meets the needs and preferences of all stakeholders.
