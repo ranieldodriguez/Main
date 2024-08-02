@@ -72,3 +72,19 @@ Project road maps are high-level documents that share major progress points, suc
 ### Collaborating for Conflict Resolution
 
 Collaborating is when all parties work together to find a win-win solution. Given the need to align with the sponsor's interests while also valuing the input of both programmers, collaborating would be the most effective approach in this scenario. This method would invlove brainstorming and coming up with solution that meets the needs and preferences of all stakeholders.
+
+### Initiate/Moderate a Focus Group
+
+- a single-moderator focus group uses one moderator, who facilitates the session and monitors interactions. However, they may recruit a helper to take notes or record the sessions
+- A dual-moderator focus group employs two moderators where one serves as the lead facilitator and the second serves as a QA
+- A two-way focus group allows one group to observe another focus group's session. This technique gives the focus group more perspective and can create more complex responses.
+
+### First Step in Developing Communication Plan
+
+The first step is to identify stakeholders. The project manager (PM) should list all the people they need to communicate with regulary during the project. The project manager should treat this step as a brainstroming and documentation activity.
+
+### Escalation Plan
+
+- The category describes the type of escalation in an escalation plan. The category of escalation will prompt the appropriate response or plan.
+- The level indicates the escalation order. The first level is the first person the issue would escalate to, and the escalation levels continue sequentially.
+- Each escalation level will have one owner or role. The escalation owner is who the project manager (PM) will contact in the event of an escalation.
