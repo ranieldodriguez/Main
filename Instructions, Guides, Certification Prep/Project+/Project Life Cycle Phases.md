@@ -103,3 +103,33 @@ Identify potential risks and develop mitigation strategies
 - Establish Minimally Viable Product: Define the core deliverable to ensure project viability
 
 ## 2.4 Project Execution Phase
+Given a scenario, perform activities during the project execution phase
+
+### Execute Tashs According to the Project Management Plan: 
+Carry out the planned tasks to meet project objectives
+
+### Implement Organizational Change Management:
+- Impacts and Responses: Address changes in the organzation due to the project
+- Training, Ensure Adoption, Reinforce Adoption Over Time: Facilitate and sustain change
+- Communication, Documentation, New Knowledge Bases, New Processes: Enusre clear communication and documentation of changes.
+
+### Manage Vendors:
+- Enforce Vendor Rules of Engagement, Monitor Performance, Approve Deliverables: Ensure vendor compliance and performance
+
+### Conduct Project Meetings and Updates: 
+Maintain regular communication and updates
+
+### Tracking/Reporting: 
+- Team Touch Points, Risk Reporting, External Status Reporting, Overall Progress Reporting, Gap Analysis, Ad Hoc Reporting: Monitor and report on project status.
+
+### Update the Project Budget: 
+Adjust the budget as needed based on progress and changes.
+
+### Update the Project Timeline:
+Revise the timeline as necessary to reflect actual progress
+
+### Manage Conflict:
+- Smoothing, Forcing, Compromise, Collaboration, Avoiding: Address and resolve conflicts
+
+### Coordinate a Phase Gate Review: 
+Conduct reviews at key points to ensure the project is on track
