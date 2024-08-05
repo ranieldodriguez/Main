@@ -133,3 +133,45 @@ Revise the timeline as necessary to reflect actual progress
 
 ### Coordinate a Phase Gate Review: 
 Conduct reviews at key points to ensure the project is on track
+
+## 2.5 Project Closure Phase
+
+Explain the importance of activities performed during the closing phase
+
+### Project Evaluation:
+Assess the project's success and areas for improvement
+
+### Validation of Deliverables: 
+Ensure all deliverables meet the required standards and objectives
+
+### Closing Contracts: 
+Finalize and close out all project-related contracts
+
+### Removing Access: 
+Revoke access to project-specific resources and data
+
+### Release Resrouces:
+Release project resrouces for use in other projects
+
+### Project Closure Meeting:
+Conduct a final meeting to review the project and gather feedback
+
+### Project Closeout Report:
+Document the project's outcomes, lessons learned, and recommendations
+
+### Collecting Feedback from Stakeholders: 
+Gather input to improve future projects
+
+### Archiving Documentation:
+Store all project's financials to ensure all expenses are accounted for
+
+### Budget Reconciliation: 
+FInalize the project's financials to ensure all expenses are accounted for
+
+### Rewards and Celebrations:
+Recongnize the team's efforts and celebrate the project's completion
+
+### Project Sign-Off:
+Obtain formal acceptance of the project deliverables from the client or stakeholders
+
+
