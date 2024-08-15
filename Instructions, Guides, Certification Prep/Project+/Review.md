@@ -31,8 +31,6 @@ Risk analysis tool frequently used in manufacturing operations and prudct design
 Common examples of internal risks include digital transformation, reorganization of personnel, and new projects that are undertaken.
 # Project Kick off Meeting
 A live meeting that usually takes palce after the initiation phase of a project. The meeting brings together the project team members and helps to foster a shared understanding of the project.
-# Business Case
-Argument for the project's existence. It should be compelling, appealing, and easy to read. It serves as the first project proposal and is completed during the planning phase.
 # Units of Work
 UOW result from the project being decomposed into small units, which can be completed in the sprint or other chosen work periods. They are defined during the planning phase. 
 # Stakeholder Engagement Matrix
@@ -89,8 +87,6 @@ Do not affect functionality but should be resolved for branding, consistency, or
 Address how the company is organized and meets the defintions of being a good citizen.
 # JAD (Joint Application Development)
 Specific type of workshop where customers take part in the design process of a product. A JAD workshop is a working session where the team and customer meet and design a product together. This is a good way to gain insights and support for the eventual product.
-# Collaborating
-Involves working together, sharing ideas, and utilizing expertise to arrive at a mutually satisfactory solution. Necessitates active cooperation.
 # Continuous Deployment 
 Allows full automation of all processes so taht the code is released without manual checks. Comprehensive testing during intergrations and a strong recovery plan are needed so the code is less likely to have errors and any code that is released with errors can be withdrawn quickly.
 # Communication Plan
@@ -109,10 +105,10 @@ Resource optimization technique that attempts to reduce the variations in how mu
 There are 9 stages of conflict escalation in Glasl's stages of conflict escalation. Stages 1-3 are considered "win-win" situations; stages 4-6 are considered "win-lose" situations; and stages 7-9 are considered "lose-lose" situations.
 # Smoothing
 Involves minimizing differences between conflicting parties and highlighting common interests to maintain team harmony.
+# Collaborating
+Involves working together, sharing ideas, and utilizing expertise to arrive at a mutually satisfactory solution. Necessitates active cooperation.
 # KPI (Key Performance Indicator)
 Measure the most crucial aspects of a project, process, or organization. They include both the target and actual measures. The target is what is acceptable, while the actual is the measurement of performance.
-# Business Case
-The business case includes the executive summary, problem statement, options, and project defenition.
 # Bottom Up Estimation
 Begins with estimates of costs, duration, and other facets for each individual tasks or activities and adds them up for a total estiamtion. This is more accruate, but is also more time consuming way to estimate. It is best used when lots of information about the costs, duration, and other facets is known.
 # Level Responsibility
@@ -129,3 +125,7 @@ Technique used to identify variances between expected and actual results, enabli
 Sets the pace of activities in the project. An ideal cadence is carefully designed to ensure a steady work rate and limit burnout. The cadence is influenced by the size of the team and the frequency of meetings, but it should meet the needs of the project and the type of work that is being complete.
 # Organization Overview
 Identify stakeholders, customers, project roles, team members, and the project's organization chart. 
+# Business Case
+Argument for the project's existence. It should be compelling, appealing, and easy to read. It serves as the first project proposal and is completed during the planning phase.
+# Business Case
+The business case includes the executive summary, problem statement, options, and project defenition.
