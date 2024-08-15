@@ -15,6 +15,8 @@ Lightweight, customer-centric framework. Scrum is also arguably the most common 
 Form of quantitive risk analysis that requires probability distributions for each outcome to make predictions. 
 # Qualitive Risk Anlysis
 Uses subjective criteria to anlayze and prioritize risks. It is faster and more intuitive thant quantitative risk analysis becuase it uses characteristics such as severity, likelyhood, and urgency and descriptors like high, medium, and low to catergorize and prioritize risks rather than mathematical formulas.
+# Urgency
+Metric that measures the time sensitivity of an issue and indicates how quickly it needs to be addressed. This metric is determined by the impact on the end-users and the expectations they have regarding the issue's resolution.
 # Qualitive Risk Analysis
 Subjective approach to analyzing risk. It relies on individual preception and interpretation of risks, using basic scales to evaluate them. It serves as a preliminary step in risk management. Two main considerations in qualitative analysis are interconnectivity and detectability. Interconnectivity analyzes how risks may interact with one another, potentially causing a ripple effect. Detectability measures how quickly a risk can be identified if it occurs. High detectability risks offer clear signals, while low detectability risks may go unnoticed.
 # Initial Risk Assessment
@@ -123,8 +125,6 @@ A vendor is paid a fixed fee upfront for the work when the contract is signed. T
 Fixed-term contract where you pay an initial fee and regular recurring payments for the duration of the lease. A lease includes additional costs for interest, fees, maintenance, and repairs. Ownership of the resource does not transfer to you. At the end of the contract, you generally have three options: return the asset to the owner, renew the lease, or purchase the asset. Leasing is a good options for using high-cost equipment for a short time. It also wroks well when purchasing is a long-term option but is not feasible right now. 
 # Gap Analysis
 Technique used to identify variances between expected and actual results, enabling the project manager to make informed decisions and improve the project's outcome. 
-# Urgency
-Metric that measures the time sensitivity of an issue and indicates how quickly it needs to be addressed. This metric is determined by the impact on the end-users and the expectations they have regarding the issue's resolution.
 # Cadence
 Sets the pace of activities in the project. An ideal cadence is carefully designed to ensure a steady work rate and limit burnout. The cadence is influenced by the size of the team and the frequency of meetings, but it should meet the needs of the project and the type of work that is being complete.
 # Organization Overview
