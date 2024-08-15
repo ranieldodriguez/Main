@@ -7,7 +7,6 @@ Welcome to my GitHub repository where I share my notes, professional experiences
 - [Introduction](#introduction)
 - [Cybersecurity](#cybersecurity)
 - [Leadership](#leadership)
-- [Reflections](#reflections)
 - [Coding](#coding)
 - [Instructions, Guides, and Certification Prep](#instructions-guides-and-certification-prep)
 - [How to Use This Repository](#how-to-use-this-repository)
@@ -33,12 +32,6 @@ I have a robust background in cybersecurity, with extensive experience in networ
 ### My Leadership Experience and Goals
 
 My leadership experience spans team management, strategic planning, and project execution. I have led teams in high-pressure environments, focusing on achieving operational excellence and fostering a culture of continuous improvement. My long-term goals include entering consulting, and attaining executive roles such as Chief Information Security Officer (CISO) or Information Security Officer (ISO). Here, I will share my experiences, strategies, and leadership principles that guide me in these endeavors.
-
-## Reflections
-
-### Observations on the Human Relevance of Cybersecurity
-
-This section will contain my reflections on the human aspect of cybersecurity. It will explore the intersection of technology and human behavior, examining how cybersecurity impacts and is impacted by people. These observations aim to provide deeper insights into the human relevance of cybersecurity, highlighting the importance of understanding human factors in the security landscape.
 
 ## Coding
 
