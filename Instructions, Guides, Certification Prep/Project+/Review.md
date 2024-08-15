@@ -88,6 +88,8 @@ Part of the transition plan, which identifies how ongoing skill development will
 Tools and techniques are the part of the transition that lists processes and means that are needed to allow the foundation laid by the project to last into the future. 
 # Product Documentation
 Product documentation within the transition plan should include specifications, configurations, playbooks, and other artifacts developed during the project. These artifacts will provide a permanent record of what has occurred. 
+# Maintenance Schedule
+Part of the transition plan that indicates what activities are needed to ensure the work of the project continues.
 # Reasons for Change Request
 Aggressive goals, team improvements, strategic changes, and scope creep are all common reasons for change requests in a project.
 # SOW (Statement of Work)
@@ -187,5 +189,7 @@ ROI = (Financial Value - Project Cost)/ Project Cost * 100 ROI = ($9,000 - $3,00
 The ROI (Return on Investment) is a calculation of the financial benefit of the project as compared to its cost. It is used to justify the project, so it is created during the preparation phase.
 # Accountable
 Means that the individual is ultimately responsible for the work. They must give their approval before a task is considered completed. Project managers are always accountable for well-run projects.
+# Responsible
+Indicates that the individual or group will actually do the work.
 # OKR (Objective and Key Results)
 Objectives and results that are aspirational, meaning they are slightly out of reach. OKRs are designed to get teams to think about what is possible and how it might be achieved. OKRs contain one objective and up to 5 results. The objective is a qualitative goal statement. It doesn’t need to be as measurable as KPIs or SMART objectives.
