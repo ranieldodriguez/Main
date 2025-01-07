@@ -19,4 +19,4 @@ Demonstrations of SQL fundamentals including:
 ---
 
 ## 📫 Contact
-- LinkedIn: [Daniel Rodriguez]((https://www.linkedin.com/in/daniel-a-rodriguez168/))
+- LinkedIn: [Daniel Rodriguez](https://www.linkedin.com/in/daniel-a-rodriguez168/)
