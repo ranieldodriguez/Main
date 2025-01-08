@@ -1,4 +1,4 @@
-### Create an Automation Script for XSOAR that will lookup a User and a Users Manager within Active Directory
+## Create an Automation Script for XSOAR that will lookup a User and a Users Manager within Active Directory
 
 ```python
 # Retrievces a command / script arguments dict, and then we can 'get' the argument from that dict
@@ -44,7 +44,7 @@ results = CommandResults(
 return_results(results)
 ```
 
-### Implement a Field Change Script, which will pause the Time to Assignment Timer if an Owner is assigned, and start again if an Owner is unassigned
+## Implement a Field Change Script, which will pause the Time to Assignment Timer if an Owner is assigned, and start again if an Owner is unassigned
 
 ```python
 # This script pauses the Time to Assignment when an Onwer is assigned to an Incident, and starts the Remediation SLA Timer.
@@ -61,7 +61,7 @@ if demisto.args().get('old') and not demisto.args().get('new'): # If the owner w
 	return_results("Incidnet has been unassigned, unpausing Time to Assignment, and pausing Remediation timer")
 ```
 
-### Prevent a User from being able to modify fields
+## Prevent a User from being able to modify fields
 
 ```python
 # get the user who is making the change, and the ID/Username from that user
@@ -71,7 +71,7 @@ if user != "DBot":
 	return_error(f"Dear {user}, You do not have the appropriate permissions to change this field.")
 ```
 
-### Use a Field display script to change how a Field displays on the New/Edit form in XSOAR
+## Use a Field display script to change how a Field displays on the New/Edit form in XSOAR
 
 ```python
 # check if this is a new Incident or not
@@ -94,7 +94,7 @@ else:
 	return_results({'hidden': False, 'options': [incident_type]})
 ```
 
-### Use an SLA script to take action when the SLA for a Timer is breached
+## Use an SLA script to take action when the SLA for a Timer is breached
 
 ```python
 # This script will complete tasks with the timebreach tag value upon timer breach
@@ -105,7 +105,7 @@ incident = demisto.incident().get('id')
 demisto.executeCommand("taskComplete", {"id":"timerbreach", "incidentId":incident})
 ```
 
-### Create a pair Automation scripts that will be used to dynamically display data on Incident Layouts
+## Create a pair Automation scripts that will be used to dynamically display data on Incident Layouts
 
 ```python
 # requires an XSOAR list that contains a markdown table with links to import Analyst Tools (wikis, google, etc)
@@ -140,7 +140,7 @@ else:
 	return_results(result)
 ```
 
-### Implement a post processing script, that prevents our Incident from being closed without an Owner being assigned, or the Close Notes being fill out appropriately. 
+## Implement a post processing script, that prevents our Incident from being closed without an Owner being assigned, or the Close Notes being fill out appropriately. 
 
 ```python
 # Post processing script that returns an error if the Owner isn't assinged as long as the closingUserId isn't DBot.
