@@ -18,14 +18,6 @@ The system incorporates:
 - Mock data generation using ChatGPT for testing and demonstration
 - Modular architecture allowing for easy integration with real ITSM systems
 
-## System Architecture
-
-![Alt text]("C:\Users\drodr\OneDrive\Pictures\NIST SP 800-30 Assistant Screenshot.png")
-
-## Output Documentation
-
-[Download PDF]("C:\Users\drodr\OneDrive\Documents\risk_report.pdf")
-
 ## Important Notes and Limitations
 
 <aside>
